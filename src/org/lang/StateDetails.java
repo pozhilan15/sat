@@ -3,7 +3,7 @@ package org.lang;
 public class StateDetails {
 public void southIndia() {
 	// TODO Auto-generated method stub
-System.out.println("southIndia is agi");
+System.out.println("southIndia is 1500");
 }
 public void northIndia() {
 	// TODO Auto-generated method stub

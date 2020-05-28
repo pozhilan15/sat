@@ -3,11 +3,11 @@ package org.lang;
 public class StateDetails {
 public void southIndia() {
 	// TODO Auto-generated method stub
-System.out.println("southIndia is 1599");
+System.out.println("southIndia is 1588");
 }
 public void northIndia() {
 	// TODO Auto-generated method stub
-System.out.println("northindia is 1499");
+System.out.println("northindia is 1488");
 }
 public static void main(String[] args) {
 	StateDetails s=new StateDetails();
